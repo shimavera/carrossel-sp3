@@ -5,6 +5,25 @@ Fluxo para configurar uma marca e produzir conteúdo de Instagram com pesquisa e
 **Autor:** Juan Lourenco  
 **Versão:** 1.0.0
 
+## Demonstração visual
+
+Exemplos de posts finalizados para SaúdeCRM, incluídos para mostrar como o fluxo pode virar arte pronta. As cinco prévias aparecem aqui mesmo na página principal do projeto:
+
+<table>
+  <tr>
+    <td align="center"><img src="examples/saudecrm/01-comunicacao-com-pacientes.png" width="150" alt="Post sobre comunicação com pacientes"><br>Comunicação com pacientes</td>
+    <td align="center"><img src="examples/saudecrm/02-assinatura-cadcam-odontologico.png" width="150" alt="Post sobre assinatura CAD/CAM odontológica"><br>Assinatura CAD/CAM</td>
+    <td align="center"><img src="examples/saudecrm/03-dashboard-fenasaude.png" width="150" alt="Post sobre dashboard da saúde suplementar"><br>Dashboard da saúde</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="examples/saudecrm/04-vacina-brasileira-malaria.png" width="150" alt="Post sobre vacina brasileira contra malária"><br>Vacina contra malária</td>
+    <td align="center"><img src="examples/saudecrm/05-davita-passos-e-doacoes.png" width="150" alt="Post sobre desafio de passos e doações"><br>Passos e doações</td>
+    <td align="center"><a href="examples/saudecrm/README.md">Abrir galeria completa e créditos</a></td>
+  </tr>
+</table>
+
+As imagens são exemplos da identidade SaúdeCRM; não reutilize logo ou identidade em outra marca. Os créditos das fotos e seus termos estão em [`CRÉDITOS.md`](examples/saudecrm/CR%C3%89DITOS.md).
+
 ## O que vem no pacote
 
 - `skills/carrossel-sp3/`: onboarding da marca até aprovação e entrega.
