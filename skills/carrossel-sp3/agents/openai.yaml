@@ -1,0 +1,6 @@
+interface:
+  display_name: "Carrossel SP3"
+  short_description: "Fluxo editorial para marcas"
+  default_prompt: "Use $carrossel-sp3 para me ajudar com minha marca."
+policy:
+  allow_implicit_invocation: true

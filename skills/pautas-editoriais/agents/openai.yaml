@@ -1,0 +1,6 @@
+interface:
+  display_name: "Pautas Editoriais"
+  short_description: "Fluxo editorial para marcas"
+  default_prompt: "Use $pautas-editoriais para me ajudar com minha marca."
+policy:
+  allow_implicit_invocation: true

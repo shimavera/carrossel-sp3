@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "carrossel-sp3",
+  "version": "1.0.0",
+  "description": "Fluxo de conteúdo para Instagram com onboarding de marca, pautas, copy, direção visual, revisão e entrega.",
+  "author": {
+    "name": "Juan Lourenco"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Carrossel SP3",
+        "shortDescription": "Conteúdo social por marca",
+        "longDescription": "Configure uma marca e conduza pesquisa editorial, pautas, copy, direção visual, aprovação e entrega de posts ou carrosséis.",
+        "developerName": "Juan Lourenco",
+        "category": "Productivity",
+        "capabilities": [
+          "Interactive"
+        ],
+        "defaultPrompt": [
+          "Configure minha marca para usar o Carrossel SP3.",
+          "Crie uma pauta e copy para minha marca.",
+          "Revise este post ou carrossel antes de eu publicar."
+        ]
+      }
+    }
+  }
+}
