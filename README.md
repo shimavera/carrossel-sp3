@@ -12,6 +12,7 @@ Fluxo para configurar uma marca e produzir conteúdo de Instagram com pesquisa e
 - `skills/direcao-visual/`: referências, composição, prompts e direitos de imagem.
 - `skills/pautas-editoriais/`: ideação, pesquisa e priorização de assuntos.
 - `templates/Marca-template/`: pastas e arquivos iniciais para cada marca.
+- `examples/saudecrm/`: cinco artes finais feitas para SaúdeCRM, incluídas como exemplos visuais.
 
 O pacote não publica nem agenda conteúdo por conta própria. A publicação é manual, após aprovação. Pesquisa atual depende de acesso a navegador/web no ambiente em que as skills forem usadas. Um editor visual disponível no cliente pode ser usado para montar e exportar as peças.
 
@@ -38,6 +39,10 @@ Copie as pastas dentro de `skills/` para `.claude/skills/` no projeto ou para `~
 6. Peça ao Carrossel SP3 uma pauta, post ou carrossel. Revise copy e prévia e aprove antes de publicar.
 
 Não misture perfis, logos, fontes ou históricos entre marcas. O assistente deve perguntar sobre dados essenciais ausentes; não deve inventar identidade nem fontes autorizadas.
+
+## Exemplos visuais
+
+As artes em `examples/saudecrm/` são peças finalizadas para a marca SaúdeCRM e demonstram uma aplicação possível do fluxo. [Veja a galeria](examples/saudecrm/README.md). Não reutilize a logo ou a identidade SaúdeCRM em outra marca. Os créditos e os limites de uso das fotos estão em [`examples/saudecrm/CRÉDITOS.md`](examples/saudecrm/CR%C3%89DITOS.md). As fotos originais não são fornecidas separadamente.
 
 ## Uso responsável
 
